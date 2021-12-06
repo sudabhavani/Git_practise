@@ -1,4 +1,0 @@
-hello devops class
-this is my first commit
-this is monday
-this is for git
